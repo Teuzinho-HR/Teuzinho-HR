@@ -1,6 +1,5 @@
 - Hey, Im Matheus Ramires , 19 years old , currently learning Computer Science on FAM;
 - Back-end Developer Junior;
-- 
 - &nbsp;
 
 [![GitHub](https://img.shields.io/badge/Teuzinho-HR-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teuzinho-HR)
